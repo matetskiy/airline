@@ -189,7 +189,10 @@ docker compose exec frontend sh
 ## 📄 Лицензия
 
 Copyright (c) 2025 matetskiy
+
 Лицензия: Creative Commons Attribution-NonCommercial 4.0 International
+
 Коммерческое использование запрещено.
+
 ---
 
